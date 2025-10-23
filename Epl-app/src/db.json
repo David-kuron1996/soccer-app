@@ -1,0 +1,43 @@
+{
+  "standings": [
+    { "id": 1, "team": "Manchester City", "played": 38, "won": 28, "drawn": 5, "lost": 5, "gf": 99, "ga": 26, "gd": 73, "points": 89 },
+    { "id": 2, "team": "Arsenal", "played": 38, "won": 26, "drawn": 6, "lost": 6, "gf": 88, "ga": 43, "gd": 45, "points": 84 },
+    { "id": 3, "team": "Liverpool", "played": 38, "won": 19, "drawn": 10, "lost": 9, "gf": 75, "ga": 47, "gd": 28, "points": 67 },
+    { "id": 4, "team": "Chelsea", "played": 38, "won": 19, "drawn": 8, "lost": 11, "gf": 71, "ga": 49, "gd": 22, "points": 65 },
+    { "id": 5, "team": "Brighton", "played": 38, "won": 18, "drawn": 8, "lost": 12, "gf": 72, "ga": 53, "gd": 19, "points": 62 },
+    { "id": 6, "team": "Newcastle", "played": 38, "won": 19, "drawn": 5, "lost": 14, "gf": 68, "ga": 59, "gd": 9, "points": 62 },
+    { "id": 7, "team": "Aston Villa", "played": 38, "won": 18, "drawn": 8, "lost": 12, "gf": 61, "ga": 53, "gd": 8, "points": 62 },
+    { "id": 8, "team": "Tottenham", "played": 38, "won": 18, "drawn": 6, "lost": 14, "gf": 68, "ga": 62, "gd": 6, "points": 60 },
+    { "id": 9, "team": "Brentford", "played": 38, "won": 15, "drawn": 10, "lost": 13, "gf": 58, "ga": 53, "gd": 5, "points": 55 },
+    { "id": 10, "team": "Fulham", "played": 38, "won": 14, "drawn": 9, "lost": 15, "gf": 55, "ga": 61, "gd": -6, "points": 51 },
+    { "id": 11, "team": "West Ham", "played": 38, "won": 14, "drawn": 8, "lost": 16, "gf": 51, "ga": 58, "gd": -7, "points": 50 },
+    { "id": 12, "team": "Wolves", "played": 38, "won": 13, "drawn": 10, "lost": 15, "gf": 38, "ga": 52, "gd": -14, "points": 49 },
+    { "id": 13, "team": "Everton", "played": 38, "won": 13, "drawn": 9, "lost": 16, "gf": 44, "ga": 57, "gd": -13, "points": 48 },
+    { "id": 14, "team": "Nott'm Forest", "played": 38, "won": 12, "drawn": 10, "lost": 16, "gf": 38, "ga": 52, "gd": -14, "points": 46 },
+    { "id": 15, "team": "Bournemouth", "played": 38, "won": 12, "drawn": 10, "lost": 16, "gf": 41, "ga": 61, "gd": -20, "points": 46 },
+    { "id": 16, "team": "Sheffield Utd", "played": 38, "won": 7, "drawn": 12, "lost": 19, "gf": 31, "ga": 78, "gd": -47, "points": 33 },
+    { "id": 17, "team": "Burnley", "played": 38, "won": 8, "drawn": 7, "lost": 23, "gf": 34, "ga": 73, "gd": -39, "points": 31 },
+    { "id": 18, "team": "Luton", "played": 38, "won": 7, "drawn": 8, "lost": 23, "gf": 34, "ga": 78, "gd": -44, "points": 29 },
+    { "id": 19, "team": "Brighton", "played": 38, "won": 6, "drawn": 6, "lost": 26, "gf": 32, "ga": 86, "gd": -54, "points": 24 },
+    { "id": 20, "team": "Ipswich", "played": 38, "won": 3, "drawn": 8, "lost": 27, "gf": 34, "ga": 92, "gd": -58, "points": 17 }
+  ],
+  "fixtures": [
+    { "id": 1, "homeTeam": "Man City", "awayTeam": "Arsenal", "date": "2023-08-12", "result": "2-1", "status": "Played" },
+    { "id": 2, "homeTeam": "Liverpool", "awayTeam": "Chelsea", "date": "2023-08-13", "result": "1-1", "status": "Played" },
+    { "id": 3, "homeTeam": "Newcastle", "awayTeam": "Brighton", "date": "2023-08-14", "result": "3-1", "status": "Played" },
+    { "id": 4, "homeTeam": "Spurs", "awayTeam": "Man Utd", "date": "2023-08-15", "result": "0-0", "status": "Played" },
+    { "id": 5, "homeTeam": "Everton", "awayTeam": "Villa", "date": "2023-08-16", "result": "2-3", "status": "Played" }
+  ],
+  "players": [
+    { "id": 1, "name": "Erling Haaland", "team": "Man City", "goals": 36, "assists": 8 },
+    { "id": 2, "name": "Mohamed Salah", "team": "Liverpool", "goals": 19, "assists": 12 },
+    { "id": 3, "name": "Bukayo Saka", "team": "Arsenal", "goals": 14, "assists": 11 },
+    { "id": 4, "name": "Kevin De Bruyne", "team": "Man City", "goals": 7, "assists": 18 },
+    { "id": 5, "name": "Ollie Watkins", "team": "Aston Villa", "goals": 19, "assists": 7 },
+    { "id": 6, "name": "Harry Kane", "team": "Spurs", "goals": 30, "assists": 5 },
+    { "id": 7, "name": "Ivan Toney", "team": "Ipswich", "goals": 20, "assists": 8 },
+    { "id": 8, "name": "Martin Ødegaard", "team": "Arsenal", "goals": 7, "assists": 16 },
+    { "id": 9, "name": "Phil Foden", "team": "Man City", "goals": 9, "assists": 5 },
+    { "id": 10, "name": "Diogo Jota", "team": "Liverpool", "goals": 15, "assists": 6 }
+  ]
+}
